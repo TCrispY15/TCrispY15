@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TCrispY15
+- 👋 Hi, I’m Tom.
 - 👀 I’m interested in ... WebDev
 - 🌱 I’m currently learning ...Javascript, HTML, Css
-- 💞️ I’m looking to collaborate on ... ANything.
+- 💞️ I’m looking to collaborate on ... Anything.
 - 📫 How to reach me ... Crppsts15@gmail.com
 
 <!---
